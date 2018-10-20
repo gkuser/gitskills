@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 # gitskills
-creating a new branch is qucik & simple.
+creating a new branch is qucik and simple
