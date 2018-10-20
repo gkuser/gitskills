@@ -1,2 +1,2 @@
 # gitskills
-this is dev branch``
+creating a new branch is qucik & simple.
